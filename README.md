@@ -1,6 +1,7 @@
 # query_nexpose
 
 [![License](https://img.shields.io/github/license/ownjoo/query_nexpose)](LICENSE)
+[![Top language](https://img.shields.io/github/languages/top/ownjoo/query_nexpose)](https://github.com/ownjoo/query_nexpose) [![Stars](https://img.shields.io/github/stars/ownjoo/query_nexpose)](https://github.com/ownjoo/query_nexpose/stargazers) [![Forks](https://img.shields.io/github/forks/ownjoo/query_nexpose)](https://github.com/ownjoo/query_nexpose/forks) [![Issues](https://img.shields.io/github/issues/ownjoo/query_nexpose)](https://github.com/ownjoo/query_nexpose/issues) [![Pull requests](https://img.shields.io/github/issues-pr/ownjoo/query_nexpose)](https://github.com/ownjoo/query_nexpose/pulls)
 
 test query for InsightVM API v3:<br>
 * look up a single host by hostname `--hostname HOST`
