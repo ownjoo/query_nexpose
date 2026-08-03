@@ -1,5 +1,7 @@
 # query_nexpose
 
+[![License](https://img.shields.io/github/license/ownjoo/query_nexpose)](LICENSE)
+
 test query for InsightVM API v3:<br>
 * look up a single host by hostname `--hostname HOST`
 * look up asset by hostname with tags`--hostname HOST --list-tags`
